@@ -3,7 +3,7 @@
     "description": "A PHP 5.3+ framework for Apache Kafka",
     "type": "library",
     "require": {
-        "php": "^5.4",
+        "php": "7.0.10",
         "ext-zookeeper": "^0.2.3",
         "ext-rdkafka": "^0.9.1"
     },
