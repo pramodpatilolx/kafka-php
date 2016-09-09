@@ -1,5 +1,5 @@
 {
-    "name": "euskadi31/kafka-php",
+    "name": "pramodpatilolx/kafka-php",
     "description": "A PHP 5.3+ framework for Apache Kafka",
     "type": "library",
     "require": {
